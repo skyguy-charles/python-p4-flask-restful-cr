@@ -6,7 +6,7 @@
 
 ---
 
-## Key Vocab......
+## Key Vocab......,,,,
 
 - **Representational State Transfer (REST)**: a convention for developing
   applications that use HTTP in a consistent, human-readable, machine-readable
